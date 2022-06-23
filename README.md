@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arina-Lex-2012
-- 👀 I’m interested in HTML, CSS, JS.
-- 🌱 I’m currently learning Java Script.
+- 👀 I’m interested in QA.
+- 🌱 I’m currently learning JS, QA.
 - 📫 How to reach me https://github.com/Arina-Lex-2012, telegram @berezhanska_maryna
 
 <!---
